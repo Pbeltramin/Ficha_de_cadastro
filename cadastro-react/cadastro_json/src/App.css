@@ -1,0 +1,35 @@
+body{
+
+justify-content: center;
+text-align: center;
+align-items: center;
+background: linear-gradient(120deg ,tan , rgba(0, 0, 0, 0.445));
+
+}
+
+.add form{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+
+
+}
+
+.add  input{
+
+display: flex;
+flex-direction: column;
+margin: 0 0 15px 0;
+align-items: center;
+
+}
+
+#cadastrar{
+
+background-color:black;
+padding: 5px 20px 5px 20px;
+color: white;
+font-weight: bold;
+
+}
